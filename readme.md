@@ -10,9 +10,9 @@ Controls:
 
 m : If target is still, target starts moving in a random direction. If target is moving, it will stop.
 
-+ : Increases target’s move speed
+\+ : Increases target’s move speed
 
-- : Decreases target’s move speed
+\- : Decreases target’s move speed
 
 a : moves tank left
 
